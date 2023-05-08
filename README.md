@@ -41,6 +41,11 @@ Nathan Templon
 ## Art
 Monkeys - https://assetstore.unity.com/packages/3d/characters/animals/mammals/monkey-quirky-series-190252  
 Potions and More - https://assetstore.unity.com/packages/3d/props/weapons/low-poly-weapons-71680  
+Fishing Rod - https://assetstore.unity.com/packages/3d/props/poly-lite-survival-collection-220452  
+Hunters - https://assetstore.unity.com/packages/3d/characters/humanoids/lowpoly-adventurers-186821  
+Item Chests - https://assetstore.unity.com/packages/3d/props/interior/treasure-set-free-chest-72345  
+Player Model - https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-lowpoly-free-221766  
+Jungle Map and Asset Pack - https://assetstore.unity.com/packages/3d/environments/fantasy/polygon-tropical-jungle-nature-biomes-low-poly-3d-art-by-synty-234253  
 
 ## Sound
 Bug Swarm - https://freesound.org/people/Globofonia/sounds/553728/  
@@ -74,17 +79,9 @@ Player Walking - https://freesound.org/people/Yuval/sounds/189640/
 Player Landing - https://freesound.org/people/SoundDesignForYou/sounds/646664/  
 Blow Dart Gun - https://freesound.org/people/Crinkem/sounds/492027/  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Tools
+Unity - 
+GitHub for Desktop - 
+Mirror Networking - https://mirror-networking.com/  
+Basic Motions Animation Pack - https://assetstore.unity.com/packages/3d/animations/basic-motions-free-154271  
+First Person Controller - https://assetstore.unity.com/packages/3d/characters/modular-first-person-controller-189884  
