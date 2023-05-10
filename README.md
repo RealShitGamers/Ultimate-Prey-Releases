@@ -1,4 +1,5 @@
 # Ultimate Prey
+Made by Nick Julch
 
 ## About
 Ultimate Prey is a battle-royale meets party meets survival game. Ultimate Prey is intended to be played multiplayer with a single Host player acting as the lobby leader for other players to connect to. The objective of the game is to find the key and escape the island filled with hunters and other threats. To do so, the players must use these threats against the other players and take advantage of the item chests that spawn across the map. Only one player can escape and be the winner.  
