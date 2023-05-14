@@ -5,6 +5,8 @@ Made by Nick Julch
 Ultimate Prey is a battle-royale meets party meets survival game. Ultimate Prey is intended to be played multiplayer with a single Host player acting as the lobby leader for other players to connect to. The objective of the game is to find the key and escape the island filled with hunters and other threats. To do so, the players must use these threats against the other players and take advantage of the item chests that spawn across the map. Only one player can escape and be the winner.  
 
 ## How to Play
+Go here:  
+https://github.com/RealShitGamers/Ultimate-Prey-Releases/releases/tag/v1.0  
 Download the zip file, extract all, and run the .exe for the game.  
 Once the game starts, one player will host the lobby and the other players will join them.  
 To do this, the Host player will hit the Host button and provide the Client players with their IP address. The host must have Port 7777 forwarded on their router.  
